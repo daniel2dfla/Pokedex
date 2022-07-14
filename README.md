@@ -65,9 +65,6 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 # Clone este repositório
 $ git clone < https://github.com/future4code/hooks-pokedex2.git>
 
-# Acesse a pasta do projeto no terminal/cmd
-$  cd hooks-pokedex2/pokedex
-
 
 # Instale as dependências
 $ npm install
